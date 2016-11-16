@@ -1,0 +1,57 @@
+html,
+body {
+	height:100%;
+}
+
+#cover {
+	background: #222 url('../img/palm_up_view-sm.jpg') center center no-repeat;
+	background-size: cover;
+	color:white;
+	height: 100%;
+	text-align: center;
+	display: flex;
+	align-items: center;
+}
+.box-text{
+	font-size: 1em;
+	padding: 20px 20px 20px 20px;
+	background: rgba(0,0,0,0.6); 
+	text-shadow: 2px 2px #000000;
+	display:inline-block;
+
+}
+.display-1 {
+	font-family: 'Patua One';
+	text-shadow: 4px 4px #000000;
+	font-size: 4em;
+}
+
+#carousel img {
+
+	width: 100%;
+}
+#carousel .carousel-caption {
+
+	font-size: 1em;
+	padding: 20px 20px 20px 20px;
+	background: rgba(0,0,0,0.6); 
+	text-shadow: 2px 2px #000000;
+	display:inline-block;
+}
+
+#cover-caption {
+	width:100%;
+}
+
+img {
+	max-width: 100%;
+}
+
+.section-content {
+	padding: 5rem 0;
+}
+
+#tree-video {
+	text-align: center;
+
+
